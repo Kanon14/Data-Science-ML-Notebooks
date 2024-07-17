@@ -1,0 +1,11 @@
+`combined_data` are all data scrapped combined
+
+- cropland_area (Sq km)
+- ndvi_mean (no unit)
+- temperature_mean (K)
+- average_annual_precipitation_mm (mm)
+- clay_mean_value (g/kg)
+- sand_mean_value (g/kg)
+- nitrogen_mean_value (cg/kg)
+- phh2o_mean_value (no unit)
+- soc_mean_value (dg/kg)
