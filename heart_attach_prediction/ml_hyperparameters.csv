@@ -1,7 +1,0 @@
-model,train_accuracy,test_accuracy,best_params
-logistic_regression,0.8801652892561983,0.8688524590163934,"{'C': 10.0, 'penalty': 'l1', 'solver': 'liblinear'}"
-decision_tree_classifier,0.8471074380165289,0.6885245901639344,"{'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 5}"
-random_forest_classifier,0.9834710743801653,0.8688524590163934,"{'criterion': 'gini', 'max_depth': 20, 'min_samples_split': 5, 'n_estimators': 50}"
-gradient_boosting_classifier,1.0,0.7540983606557377,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100}"
-adaboost_classifier,0.8842975206611571,0.819672131147541,"{'learning_rate': 0.1, 'n_estimators': 200}"
-xgboost_classifier,1.0,0.8524590163934426,"{'colsample_bytree': 0.7, 'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 300, 'subsample': 0.9}"
